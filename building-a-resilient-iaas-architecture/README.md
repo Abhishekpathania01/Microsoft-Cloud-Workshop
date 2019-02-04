@@ -40,7 +40,7 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
 # Known Issues
 
-* In **Exercise-2** **Task 2** While creating **Windows Server 2016 DataCenter VMs**, you may not see the option for **Enable Backup** so you can configure **Backup** after the deployment of VMs. In this case deploy the all four VMs first and then configure the Backup.
+* In [**Exercise-2**](https://github.com/Microsoft/MCW-Building-a-resilient-IaaS-architecture/blob/master/Hands-on%20lab/HOL%20step-by%20step%20-%20Building%20a%20resilient%20IaaS%20architecture.md#exercise-2-build-the-primary-dcs-for-resiliency)**Build the primary DCs for resiliency**,  you may not see the option for **Enable Backup** so you can configure **Backup** after the deployment of VMs. In this case deploy the all four VMs first and then configure the Backup.
 
  Please follow these steps to configure **Backup** :
 
