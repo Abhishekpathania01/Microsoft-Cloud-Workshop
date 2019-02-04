@@ -60,13 +60,11 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
  <kbd>![](images/backup2.png)</kbd>
 
-* > **Repeat same Steps from  2 to 4** for **DC02** VM and select existing RecoveryServiceVault **BackupVault**.
+* > **Repeat same Steps from 2 to 4** for **DC02** VM and select **existing** RecoveryServiceVault **BackupVault**.
 
- ![](images/finalbackupDC02.png)
-
-* > **Repeat same Steps from  2 to 4** for **DC03**, now Create new RecoveryServiceVault enter name **BackupVault2** and Select existing RG **BackupVaultRG2-xxxxx**.
+* > **Repeat same Steps from 2 to 4** for **DC03**, now Create new RecoveryServiceVault enter name **BackupVault2** and Select existing RG **BackupVaultRG2-xxxxx**.
  
- ![](images/finalbackupDC03.png)
+ ![](images/dc03.png)
  
 * > **Also repeat same Steps from  2 to 4** for **DC04** and select existing RecoveryServiceVault  **BackupVault2**.
 
