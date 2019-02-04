@@ -64,16 +64,13 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
  ![](images/finalbackupDC02.png)
 
-* > **Repeat same Steps from  2 to 4** for **DC03**, now Create new RecoveryServiceVault enter name **LitwareBackupVault2** and Select existing RG **ODL_iaas-arch-xxxxx-07**.
+* > **Repeat same Steps from  2 to 4** for **DC03**, now Create new RecoveryServiceVault enter name **BackupVault2** and Select existing RG **BackupVaultRG2-xxxxx**.
  
  ![](images/finalbackupDC03.png)
  
-* > **Also repeat same Steps from  2 to 4** for **LitwareDC04** and select existing RecoveryServiceVault  **LitwareBackupVault2**.
+* > **Also repeat same Steps from  2 to 4** for **DC04** and select existing RecoveryServiceVault  **BackupVault2**.
 
  ![](images/FinalbackupDC04.png)
-
-
-# Notes to Instructors / Proctors
 
 
 # Help and Support
