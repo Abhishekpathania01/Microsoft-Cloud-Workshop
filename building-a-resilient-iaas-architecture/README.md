@@ -50,7 +50,7 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
 * **Step 2.**  Select **DC01** VM.
 
-  ![](images/dc01.png)
+  ![](images/dc001.png)
 
 * **Step 3.** Click on **Backup** under Operations menu.
 
