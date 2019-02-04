@@ -48,23 +48,23 @@ You are provided a Visual Studio Community 2017 on Windows Server 2016 (x64)Micr
 
   ![](images/VirtualMachines1.png)
 
-* **Step 2.**  Select **LitwareDC01** VM which is created by you.
+* **Step 2.**  Select **DC01** VM.
 
-  ![](images/LitwareDC2.png)
+  ![](images/dc01.png)
 
 * **Step 3.** Click on **Backup** under Operations menu.
 
-  ![](images/BackupDC3.png)
+  ![](images/backup1.png)
 
-* **Step 4.** Click on create new RecoveryServiceVault enter name **LitwareBackupVault** and Select Existing RG **ODL_iaas-arch-xxxxx-05** and then click on **Enable backup**.
+* **Step 4.** Click on create new RecoveryServiceVault enter name **BackupVault** and Select Existing RG **BackupVaultRG-xxxxx** and then click on **Enable backup**.
 
- <kbd>![](images/Finalbackup4.png)</kbd>
+ <kbd>![](images/backup2.png)</kbd>
 
-* > **Repeat same Steps from  2 to 4** for **LitwareDC02** VM and select existing RecoveryServiceVault **LitwareBackupVault**.
+* > **Repeat same Steps from  2 to 4** for **DC02** VM and select existing RecoveryServiceVault **BackupVault**.
 
  ![](images/finalbackupDC02.png)
 
-* > **Repeat same Steps from  2 to 4** for **LitwareDC03**, now Create new RecoveryServiceVault enter name **LitwareBackupVault2** and Select existing RG **ODL_iaas-arch-xxxxx-07**.
+* > **Repeat same Steps from  2 to 4** for **DC03**, now Create new RecoveryServiceVault enter name **LitwareBackupVault2** and Select existing RG **ODL_iaas-arch-xxxxx-07**.
  
  ![](images/finalbackupDC03.png)
  
